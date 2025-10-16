@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jeepredictor.com/sitemap.xml
