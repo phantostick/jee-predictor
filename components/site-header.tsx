@@ -8,7 +8,6 @@ export function SiteHeader() {
   const pathname = usePathname()
 
   const nav = [
-    { href: "/", label: "Home" },
     { href: "/percentile-predictor", label: "Percentile Predictor" },
     { href: "/college-predictor", label: "College Predictor" },
   ]
