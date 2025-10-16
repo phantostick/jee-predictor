@@ -168,7 +168,7 @@ export default function HomePage() {
           <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
             {/* Content */}
             <div className="space-y-5 md:space-y-6 text-center lg:text-left">
-              <h1 className="text-pretty text-3xl font-bold leading-tight sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl bg-gradient-to-br from-foreground via-foreground to-foreground/60 bg-clip-text text-transparent">
+              <h1 className="text-pretty text-3xl font-bold leading-tight sm:text-4xl md:text-3xl lg:text-5xl xl:text-6xl bg-gradient-to-br from-foreground via-foreground to-foreground/60 bg-clip-text text-transparent">
                 Predict your JEE Percentile and unlock your dream college
               </h1>
               <p className="max-w-2xl mx-auto lg:mx-0 text-base sm:text-lg leading-relaxed text-foreground/70">
