@@ -23,10 +23,10 @@ export function SiteHeader() {
             }}
             aria-hidden="true"
           />
-          <span className="text-lg font-semibold tracking-tight text-balance">jeePredictor.com</span>
+          <span className="text-md font-semibold tracking-tight sm:text-sm text-balance">jeePredictor.com</span>
         </Link>
 
-        <nav className="flex items-center gap-1 md:gap-2">
+        <nav className="flex items-center gap-1 md:gap-2 sm:gap-4">
           {nav.map((item) => {
             const active = pathname === item.href
             return (
